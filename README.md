@@ -2,4 +2,5 @@
 This is where i tried to solve the leetcode solutions.
 
 ## References
-https://github.com/WYANG008/Leetcode-Java.git
+https://github.com/dingjikerbo/Leetcode-Java
+https://github.com/yuzhoujr/leetcode
